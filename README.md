@@ -6,5 +6,6 @@ ability and problem-solving skill using Python Programming Language. Students ar
 testing and debugging of code written in Python.
 
 Prerequisite: None
+
 KTU MCA 2021-23
 S1
