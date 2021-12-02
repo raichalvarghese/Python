@@ -19,3 +19,8 @@ for i in text:
     if i in vowels:
         l.append(i)
 print(l)
+
+#List ordinal value of each element of a word
+
+for i in text:
+    print(ord(i),end=" ")
