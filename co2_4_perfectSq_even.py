@@ -19,6 +19,8 @@ for i in range(num1,num2):
             l.append(rem)
         if (l[0]%2==0) and (l[1]%2==0 and l[2]%2==0 and l[3]%2==0):
             s.append(i)
+
+            
 for x in s:
     if (isPerfect(x)):
         print(x)
