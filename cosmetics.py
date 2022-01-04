@@ -10,7 +10,7 @@ for i in range(0,N):
     p_id=int(input())
     print("Enter the product name of",i,"th element:")
     p_name=input()
-    print("Fruit present or not:")
+    print("Fruit present or not:(0/1)")
     fi_n=int(input())
     list.append(cosmetics(p_id,p_name,fi_n))
 
