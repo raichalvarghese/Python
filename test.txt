@@ -1,0 +1,6 @@
+python program
+co5 1 
+read a file 
+line by line
+and store in 
+a list.

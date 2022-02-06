@@ -1,0 +1,4 @@
+this is 
+question from co5
+on readlines
+python program
