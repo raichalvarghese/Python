@@ -1,2 +1,4 @@
-question from co5
-python program
+This Is 
+Question From Co5
+On Readlines
+Python Program
