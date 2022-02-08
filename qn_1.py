@@ -15,6 +15,10 @@ with open(f,'r') as csvfile:
         
     print("Total no. of rows: %d"%(csvreader.line_num))
     
+
+
+
+    
 print("% of each student")
 s=0
 for row in rows[:10]:
